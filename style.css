@@ -1,0 +1,29 @@
+body{    
+    background: url('https://papik.pro/uploads/posts/2021-11/1636601591_2-papik-pro-p-fon-professii-risunok-2.jpg');
+    background-size: cover;
+    
+}
+
+.card {
+    background-color: rgba(117, 94, 143, 0.79);
+}
+
+.card-header{
+    background-color: rgba(175, 36, 170, 0.886);
+}
+
+#context {
+    color: rgba(222, 224, 237, 0.925);
+}
+
+#surnameOutput{
+    color: black;
+}
+
+#firstNameOutput{
+    color: black;
+}
+
+#patronymicOutput{
+    color: black;
+}
